@@ -8,3 +8,20 @@
   color: #c71585;
 
 }
+
+.contents{
+  width:100%;
+  text-align: center;
+  float:left
+}
+
+.always{
+  width:50%;
+  float:left;
+}
+
+.Hikaku{
+  width:50%;
+  float:left;
+}
+
