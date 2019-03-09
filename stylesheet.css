@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 .container{
 
   width:100%;
@@ -12,16 +16,25 @@
 .contents{
   width:100%;
   text-align: center;
-  float:left
+
 }
 
 .always{
   width:50%;
-  float:left;
+  float: left;
+
 }
 
 .Hikaku{
   width:50%;
-  float:left;
+  float: left;
+  text-align: center;
 }
 
+.always2 h3{
+  float:left;
+  width:25%;
+  padding: 10px 5px;
+
+
+}
